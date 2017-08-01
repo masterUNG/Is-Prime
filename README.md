@@ -1,5 +1,13 @@
-ทดสอบการทำ README
+# Workshop เขียนแอพ iOS กับ มาสเตอร์ อึ่ง
+## เรียนรู้การใช้งาน Optional โดยการหาจำนวนจำเพาะ
 
+[![Screen_Shot_2560-07-23_at_03.02.19.png](https://s2.postimg.org/gqo8sxurd/Screen_Shot_2560-07-23_at_03.02.19.png)](https://postimg.org/image/pygh9n1th/)
+
+[![Screen_Shot_2560-07-23_at_03.01.44.png](https://s4.postimg.org/wa68mxc8t/Screen_Shot_2560-07-23_at_03.01.44.png)](https://postimg.org/image/d52zd5xkp/)
+
+[![Screen_Shot_2560-07-23_at_03.01.59.png](https://s1.postimg.org/jrnhg1m0f/Screen_Shot_2560-07-23_at_03.01.59.png)](https://postimg.org/image/j24p3olgr/)
+
+[![Screen_Shot_2560-07-23_at_03.02.10.png](https://s1.postimg.org/nrwgxnarj/Screen_Shot_2560-07-23_at_03.02.10.png)](https://postimg.org/image/anqwkyipn/)
 
 
 ## ต้องการรายละเอียดเพิ่ม หรือ ต้องการ ปรึกษาการทำ โปรเจคแอนดรอยด์
@@ -27,7 +35,7 @@ http://line.me/ti/p/XI-Ksj7Jzq
 
 
 http://androidthai.in.th
-
+http://swiftcodingthai.com
 
 
 phrombutr@gmail.com
